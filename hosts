@@ -60,9 +60,6 @@ webserver[1:2]
 [db]
 dbserver
 
-[bk]
-backup
-
 #[windows]
 #winclient
 
